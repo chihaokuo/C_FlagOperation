@@ -30,7 +30,7 @@
 
 #include "DataStructures.h"
 
-typedef unsigned int  u32
+typedef unsigned int  u32;
 
 /*****************************************************************************/
 /*!
